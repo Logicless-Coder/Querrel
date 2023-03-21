@@ -1,0 +1,8 @@
+T1.read(A)
+T1.write(A)
+T2.read(B)
+T2.write(B)
+T1.read(B)
+T1.write(B)
+T2.read(A)
+T2.write(A)

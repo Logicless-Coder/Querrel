@@ -1,0 +1,5 @@
+Write a program which shall read an input file containing a concurrent schedule
+with N transactions involving read and write instructions only. It shall check
+whether the given scedule is conflict serializable or not. In case of conflict
+serializable schedule, give the order of serializability also. Otherwise give
+the list of transactions involved in conflicts.
